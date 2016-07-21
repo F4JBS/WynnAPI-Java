@@ -6,7 +6,7 @@
 
     <groupId>me.xCykrix.WynnAPI</groupId>
     <artifactId>WynnAPI</artifactId>
-    <version>1.0.1-Development</version>
+    <version>1.0.0-PreBuild</version>
 
     <build>
         <plugins>
